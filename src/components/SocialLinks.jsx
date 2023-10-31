@@ -3,6 +3,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill} from 'react-icons/bs'
 
+
 const SocialLinks = () => {
 
 
@@ -44,7 +45,7 @@ const SocialLinks = () => {
         Resume <BsFillPersonLinesFill size={30}/>
                </> 
             ),
-            href: '/resume.pdf',
+            href: 'https://bit.ly/48YQRzg',
             style: 'rounded-br-md',
             download: true,
         },
